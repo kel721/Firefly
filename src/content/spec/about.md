@@ -1,26 +1,21 @@
-# 关于我 / About Me
+# 🍔 关于我 / About Me
 
-你好！我是 **Keeper** ，一个在数字世界中默默无闻的一片叶子。
+你好！我是 **Keeper** ，一个在数字世界中默默无闻的一片叶子🍃。
 
-## 🛠️ 关于本站
+我游走于代码、信号与数据之间，试图在庞杂的信息洪流中寻找规律，也在不断变化的世界里，建立属于自己的坐标。
+我相信，技术不仅是解决问题的工具，也是人类认识世界的另一种语言。每一段代码都在描述秩序，每一个模型都在逼近真实，而每一次探索，都是对未知边界的重新定义。
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
+我不追逐喧嚣，也不急于证明什么。比起成为被世界看见的人，我更希望成为一个能够看见世界的人。
+在有限的时间里保持思考，在确定的规则中寻找自由，在冰冷的机器背后保留温度。
 
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+我是一片叶子，微小，却并非没有方向。
+风从哪里来并不重要，重要的是，我仍在生长。
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
 
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
+## 🛠️ 把一个知识点理清楚，有什么诀窍呢？
+与其说是诀窍，不如说是一种笨拙的诚实，因为你看到的每一分清晰，都源自它背后几十个小时的混乱。
+或许学习的路上，我们真正需要的并不是寻找捷径的眼光，而是直面问题的勇气，停在原地，眼前全是问题，一旦出发，脚下皆是答案。
 
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
-
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
-
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
 
 ---
 
